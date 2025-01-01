@@ -6,7 +6,7 @@ Este repositorio contiene los informes y materiales desarrollados para el plan d
 
 El ejercicio está dividido en cuatro partes principales, cada una de las cuales incluye un informe detallado:
 
-### 1. **Política de Seguridad**
+### 1. **[Política de Seguridad](Política de seguridad.md)**
    - **Introducción**: Descripción general de la organización y la situación actual en ciberseguridad.
    - **Objetivos**: Establecimiento de los objetivos de la política de seguridad.
    - **Alcance**: Definición de a quién aplica la política de seguridad.
