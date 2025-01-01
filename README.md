@@ -16,14 +16,14 @@ El ejercicio está dividido en cuatro partes principales, cada una de las cuales
    - **Sanciones**: Sanciones por el incumplimiento de las normas de seguridad.
    - **Revisión y Actualización**: Frecuencia con la que se revisará y actualizará la política.
 
-### 2. **Plan de Formación**
+### 2. **[Plan de Formación](https://github.com/JCreiv/Politica_formacion/blob/master/Plan%20de%20formaci%C3%B3n.md)**
    - **Introducción**: Descripción general de la organización y el plan de formación.
    - **Objetivos**: Objetivos del plan de formación.
    - **Contenidos**: Contenidos de los cursos y capacitaciones.
    - **Metodología**: Metodología utilizada en los cursos (presencial, a distancia, plataformas e-learning, simulaciones).
    - **Materiales**: Materiales que se utilizarán en los cursos y capacitaciones.
 
-### 3. **Plan de Evaluación**
+### 3. **[Plan de Evaluación](https://github.com/JCreiv/Politica_formacion/blob/master/Plan%20de%20evaluacion.md)**
    - **Introducción**: Descripción general de la organización y el plan de evaluación.
    - **Objetivos**: Objetivos del plan de evaluación.
    - **Indicadores**: Indicadores para evaluar la efectividad de las políticas de seguridad.
