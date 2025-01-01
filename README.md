@@ -38,7 +38,7 @@ El ejercicio está dividido en cuatro partes principales, cada una de las cuales
      - **Metodología**
      - **Resultados y Acciones Correctivas**
 
-### 4. **Materiales de Formación**
+### 4. **[Materiales de Formación](https://github.com/JCreiv/Politica_formacion/tree/master/Materiales)**
    - **Presentaciones**: Material visual para los cursos y capacitaciones.
    - **Manuales**: Documentos para consulta sobre políticas de seguridad.
    - **Ejercicios**: Ejercicios para evaluar el conocimiento adquirido.
