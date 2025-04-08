@@ -53,7 +53,3 @@ Este proyecto tiene como objetivo principal el diseño y la implementación de u
 - Evaluar la efectividad de las políticas de seguridad implementadas.
 - Crear materiales educativos que sirvan de referencia a los empleados.
 
-## Estructura del Repositorio
-
-El repositorio está organizado de la siguiente manera:
-
